@@ -1,5 +1,7 @@
 ### Hello there 👋
 
+Coding is interesting and if you don't agree you can f*** off
+
 <!--
 **angelkoev/angelkoev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
