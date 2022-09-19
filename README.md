@@ -1,6 +1,10 @@
 ### Hello there 👋
 
-## Coding is interesting and if you don't agree you can f*** off
+## I'm interested in programming and software development.
+
+# I'm currently studying for Java Web Developer at @SoftUni.
+
+
 
 <!--
 **angelkoev/angelkoev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
