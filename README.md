@@ -1,10 +1,12 @@
-### Hello there 👋
+### Hi 👋
 
-## I'm interested in programming and software development.
+## I'm (obviously) interested in programming and software development.
 
-# I'm currently studying for Java Web Developer at @SoftUni.
+# I finish studying for Java Web Developer at @SoftUni.
 
+# Now I continue my education through other courses.
 
+# I know that repositories are mess, but I decide that it is better to learn new things and obtain new skills, rather than making everything looks "perfect" 
 
 <!--
 **angelkoev/angelkoev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
